@@ -1,0 +1,17 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+.pub-cache/
+build/
+
+# Android
+*.iml
+.gradle/
+local.properties
+.idea/
+captures/
+.DS_Store
+*.keystore
+
+# Logs
+*.log
